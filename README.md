@@ -1,5 +1,3 @@
-## This repo is no longer maintained as the new owners of discordboats have decided to make it proprietary and strip the original creators of credit. As much as I do not support this decision I can't do anything about it. Sorry!
-
 # discordboats.club
 Community oriented, open-source Discord bot list.
 
